@@ -1,6 +1,6 @@
 [project]
 name = "comfyui_janus_wrapper"
-description = ""
+description = "Unofficial implementation of [a/deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) in ComfyUI."
 version = "0.0.1"
 license = "MIT"
 dependencies = ["numpy", "pillow", "transformers", "timm", "accelerate", "sentencepiece", "attrdict", "einops", "huggingface_hub", "tqdm"]
