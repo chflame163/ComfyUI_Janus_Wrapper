@@ -1,0 +1,10 @@
+numpy<2.0
+pillow
+transformers
+timm
+accelerate
+sentencepiece
+attrdict
+einops
+huggingface_hub
+tqdm

@@ -1,0 +1,15 @@
+[project]
+name = "comfyui_janus_wrapper"
+description = ""
+version = "0.0.1"
+license = "MIT"
+dependencies = ["numpy", "pillow", "transformers", "timm", "accelerate", "sentencepiece", "attrdict", "einops", "huggingface_hub", "tqdm"]
+
+[project.urls]
+Repository = "https://github.com/chflame163/ComfyUI_Janus_Wrapper"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "chflame163"
+DisplayName = "ComfyUI_Janus_Wrapper"
+Icon = ""
